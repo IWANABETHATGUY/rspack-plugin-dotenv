@@ -1,6 +1,6 @@
 {
-  "name": "dotenv-webpack",
-  "description": "A simple webpack plugin to support dotenv.",
+  "name": "rspack-plugin-dotenv",
+  "description": "A simple rspack plugin to support dotenv.",
   "version": "0.0.0-semantically-released",
   "main": "index.js",
   "scripts": {
