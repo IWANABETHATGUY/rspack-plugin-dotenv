@@ -24,7 +24,7 @@ A secure webpack plugin that supports dotenv and other environment variables and
   </a>
 </div>
 
-**This repo is based on https://github.com/mrsteele/dotenv-webpack**
+# This repo is based on https://github.com/mrsteele/dotenv-webpack
 
 ## Installation
 
