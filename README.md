@@ -1,6 +1,6 @@
 # rspack-plugin-dotenv
 
-# This repo is based on https://github.com/mrsteele/dotenv-webpack
+# This repo is based on [dotenv-webpack](https://github.com/mrsteele/dotenv-webpack)
 
 ## Installation
 
