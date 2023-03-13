@@ -24,6 +24,8 @@ A secure webpack plugin that supports dotenv and other environment variables and
   </a>
 </div>
 
+**This repo is based on https://github.com/mrsteele/dotenv-webpack**
+
 ## Installation
 
 Include the package locally in your repository.
@@ -187,3 +189,8 @@ This is especially useful when working with [Monorepos](https://monorepo.tools/)
 ## LICENSE
 
 MIT
+
+
+## Credits
+Thanks to: 
+- [mrsteele](https://github.com/mrsteele) on his great work on (dotenv-webpack)[https://github.com/mrsteele/dotenv-webpack]
