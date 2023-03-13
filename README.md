@@ -1,28 +1,4 @@
-<h1>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" alt="dotenv" />
-  <img width="30" height="30" src="https://webpack.js.org/assets/icon-square-big.svg" alt="webpack">
-  dotenv-webpack
-</h1>
-
-A secure webpack plugin that supports dotenv and other environment variables and **only exposes what you choose and use**.
-
-<div align="center">
-  <a href="https://www.npmjs.com/package/dotenv-webpack" target="_blank">
-    <img alt="npm" src="https://img.shields.io/npm/v/dotenv-webpack.svg?maxAge=0&style=flat" />
-  </a>
-  <a href="https://codecov.io/gh/mrsteele/dotenv-webpack" target="_blank">
-    <img alt="codecov" src="https://codecov.io/gh/mrsteele/dotenv-webpack/branch/master/graph/badge.svg" />
-  </a>
-  <a href="https://github.com/mrsteele/dotenv-webpack/actions/workflows/main.yml" target="_blank">
-    <img alt="Main" src="https://github.com/mrsteele/dotenv-webpack/actions/workflows/main.yml/badge.svg" />
-  </a>
-  <img alt="Vulnerabilities Score" src="https://snyk-widget.herokuapp.com/badge/npm/dotenv-webpack/badge.svg" />
-  <img alt="Known Vulnerabilities" src="https://snyk.io/test/github/mrsteele/dotenv-webpack/badge.svg" />
-  <object id="badge" data="https://snyk-widget.herokuapp.com/badge/npm/dotenv-webpack/badge.svg" type="image/svg+xml"></object>
-  <a href="https://www.dotenv.org/get-started?r=3" target="_blank">
-    <img alt="dotenv-vault" src="https://badge.dotenv.org/works-with.svg?r=3" />
-  </a>
-</div>
+# rspack-plugin-dotenv
 
 # This repo is based on https://github.com/mrsteele/dotenv-webpack
 
