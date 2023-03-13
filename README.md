@@ -4,9 +4,9 @@
 
 ## Installation
 
-Include the package locally in your repository.
+<!-- Include the package locally in your repository. -->
 
-`npm install dotenv-webpack --save-dev`
+<!-- `npm install dotenv-webpack --save-dev` -->
 
 ## Description
 
@@ -33,7 +33,7 @@ S3_API=mysecretkey
 ```
 ### Add it to your Webpack config file
 ```javascript
-// webpack.config.js
+// rspack.config.js
 const Dotenv = require('dotenv-webpack');
 
 module.exports = {
@@ -154,9 +154,9 @@ This is especially useful when working with [Monorepos](https://monorepo.tools/)
 .
 ├── packages/
 │   ├── app/
-│   │   └── webpack.config.js # { path: '../../.env' }
+│   │   └── rspack.config.js # { path: '../../.env' }
 │   └── libs/
-│       └── webpack.config.js # { path: '../../.env' }
+│       └── rspack.config.js # { path: '../../.env' }
 ├── .env
 ├── .env.example
 └── .env.defaults
