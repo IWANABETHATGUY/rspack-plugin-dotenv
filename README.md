@@ -193,4 +193,4 @@ MIT
 
 ## Credits
 Thanks to: 
-- [mrsteele](https://github.com/mrsteele) on his great work on (dotenv-webpack)[https://github.com/mrsteele/dotenv-webpack]
+- [mrsteele](https://github.com/mrsteele) on his great work on [dotenv-webpack](https://github.com/mrsteele/dotenv-webpack)
