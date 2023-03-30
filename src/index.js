@@ -1,6 +1,5 @@
 import dotenv from "dotenv-defaults";
 import fs from "fs";
-import { DefinePlugin } from "webpack";
 
 // Mostly taken from here: https://github.com/motdotla/dotenv-expand/blob/master/lib/main.js#L4
 const interpolate = (env, vars) => {
