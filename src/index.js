@@ -19,7 +19,7 @@ const isMainThreadElectron = target => target.startsWith("electron") && target.e
 
 class Dotenv {
   /**
-   * The dotenv-webpack plugin.
+   * The dotenv-rspack plugin.
    * @param {Object} options - The parameters.
    * @param {String} [options.path=./.env] - The location of the environment variable.
    * @param {Boolean|String} [options.safe=false] - If false ignore safe-mode, if true load `'./.env.example'`, if a string load that file as the sample.
