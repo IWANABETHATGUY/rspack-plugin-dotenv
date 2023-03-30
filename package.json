@@ -1,7 +1,7 @@
 {
   "name": "rspack-plugin-dotenv",
   "description": "A simple rspack plugin to support dotenv.",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "precommit": "npm run lint",
