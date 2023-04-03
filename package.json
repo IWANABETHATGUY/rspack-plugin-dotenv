@@ -52,6 +52,7 @@
     "@babel/core": "^7.13.8",
     "@babel/preset-env": "^7.13.9",
     "@babel/register": "^7.13.8",
+    "@rspack/core": "^0.1.5",
     "husky": "^7.0.1",
     "jest": "^27.0.4",
     "jsdoc": "^3.6.10",

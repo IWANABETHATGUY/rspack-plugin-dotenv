@@ -2,7 +2,7 @@
 
 const { resolve } = require('path')
 const { createHash } = require('crypto')
-const webpack = require('webpack')
+const webpack = require('@rspack/core').rspack
 const { readFileSync } = require('fs')
 const rimraf = require('rimraf')
 
