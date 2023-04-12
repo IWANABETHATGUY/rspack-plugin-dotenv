@@ -4,9 +4,7 @@
 
 ## Installation
 
-<!-- Include the package locally in your repository. -->
-
-<!-- `npm install dotenv-webpack --save-dev` -->
+`npm install rspack-plugin-dotenv --save-dev`
 
 ## Description
 
@@ -34,7 +32,7 @@ S3_API=mysecretkey
 ### Add it to your Webpack config file
 ```javascript
 // rspack.config.js
-const Dotenv = require('dotenv-webpack');
+const Dotenv = require('rspack-plugin-dotenv');
 
 module.exports = {
   ...
